@@ -1,6 +1,6 @@
 theme = "devresume"
 relativeURLs = true
-baseURL = "https://waqasshami-hugo-dev-ty8gl.ondigitalocean.app"
+baseURL = "https://waqasshami-hugo-dev-clatz.ondigitalocean.app"
 languageCode = "en-us"
 title = "My Resume"
 
