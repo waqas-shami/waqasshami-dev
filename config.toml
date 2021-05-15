@@ -1,7 +1,9 @@
-baseURL = "http://example.org/"
+theme = "devresume"
+relativeURLs = true
+baseURL = "/"
 languageCode = "en-us"
 title = "My Resume"
-theme = "devresume"
+
 
 googleAnalytics = "UA-XXXXXXX-Y"
 
